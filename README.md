@@ -5,7 +5,7 @@ List of Go projects that using generics or based on generics implementation.
 ## Contents
 
 - [Tutorials](#Tutorials)
-- [Data Structures](#Data Structures)
+- [Data Structures](#data-structures)
 - [Utilities](#Utilities)
 - [Other](#Other)
 
