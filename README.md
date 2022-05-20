@@ -11,8 +11,7 @@ List of Go projects that using generics or based on generics implementation.
 
 ## Tutorials
 
-- **[go.dev/tutorial/generics](https://go.dev/doc/tutorial/generics)** – Introduces the basics of generics in Go (
-  external _official resource_).
+- **[go.dev/tutorial/generics](https://go.dev/doc/tutorial/generics)** – Introduces the basics of generics in Go (external _official resource_).
 - **[gosamples.dev/generics-intro](https://gosamples.dev/tags/generics-intro/)** – Learn the basics of Go Generics with
   practical examples (external resource).
 - **[akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way)** – A hands-on approach to
