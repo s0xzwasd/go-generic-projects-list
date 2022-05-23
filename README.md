@@ -25,7 +25,7 @@ List of Go projects that using generics or based on generics implementation.
   , `stack`, etc.).
 - **[HotPotatoC/sture](https://github.com/HotPotatoC/sture)** – A collection of data structures (`Stack`, `Queue`
   , `Linked List`, etc.).
-- **[cznic/b](https://gitlab.com/cznic/b)** – Implements a B+tree. 
+- **[cznic/b](https://gitlab.com/cznic/b)** – Implements a B+tree.
 
 ## Utilities
 
@@ -53,6 +53,8 @@ List of Go projects that using generics or based on generics implementation.
   inspired by JavaScript and Python.
 - **[jonbodner/gcon](https://github.com/jonbodner/gcon)** – Simple library to add async/await to Go using generics and
   closures.
+- **[eddieowens/axon](https://github.com/eddieowens/axon)** – A simple, lightweight, and lazy-loaded DI (really just a
+  singleton management) library.
 
 ## Other
 
