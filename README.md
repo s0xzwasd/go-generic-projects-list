@@ -26,6 +26,7 @@ List of Go projects that using generics or based on generics implementation.
 - **[HotPotatoC/sture](https://github.com/HotPotatoC/sture)** – A collection of data structures (`Stack`, `Queue`
   , `Linked List`, etc.).
 - **[cznic/b](https://gitlab.com/cznic/b)** – Implements a B+tree.
+- **[thejerf/cm](https://github.com/thejerf/cm)** - Nested maps, dual-keyed maps, Set structure.
 
 ## Utilities
 
